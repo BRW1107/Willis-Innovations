@@ -20,19 +20,18 @@
 
 title: Willis-Innovations
 email: WillisInnovation@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
    This is to provide a base for the soon to be Willis-Innovations website where I will be posting information on Restorations, Simple Fixes, and many more projects to come!
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username:  #SHould we have this?
+baseurl: "Willis-Innovations" # the subpath of your site, e.g. /blog
+url: "https://brw1107.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username:  #Should we have this?
 # github_username:  
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-youtube
 
 # Exclude from processing.
 # The following items will not be processed, by default.
